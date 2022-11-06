@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "682053087685",
+    "firebase_url": "https://simplechat-bc979-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "simplechat-bc979",
+    "storage_bucket": "simplechat-bc979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682053087685:android:b47c4308d864a33ec41bac",
+        "android_client_info": {
+          "package_name": "com.zvarych.simplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682053087685-g4m3fbeietc5uec0lb8uvfedlvduajds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdaawHIxz31APy0Ej8kVj5tEvyzMqfmQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682053087685-g4m3fbeietc5uec0lb8uvfedlvduajds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
